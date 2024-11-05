@@ -1,0 +1,27 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    ext {
+        agp_version = '8.5.0' // Android Gradle Plugin version
+        kotlin_version = '1.8.22' // Kotlin version for consistency
+    }
+    repositories {
+        google()  // Google's Maven repository
+        mavenCentral() // Use Maven Central for more dependencies
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:$agp_version"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral() // Use Maven Central repository for broader dependency support
+    }
+}
+
+// If you have additional tasks for cleaning or common operations, you can add them below.
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

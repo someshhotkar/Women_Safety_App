@@ -1,0 +1,8 @@
+com.prabhu.womensafetyapp-pngs-0 D:\Women-Safety-App-Android-Project-Source-Code (1)\Women-Safety-App-Android-Project-Source-Code\app\build\generated\res\pngs\debug
+com.prabhu.womensafetyapp-resValues-1 D:\Women-Safety-App-Android-Project-Source-Code (1)\Women-Safety-App-Android-Project-Source-Code\app\build\generated\res\resValues\debug
+com.prabhu.womensafetyapp-rs-2 D:\Women-Safety-App-Android-Project-Source-Code (1)\Women-Safety-App-Android-Project-Source-Code\app\build\generated\res\rs\debug
+com.prabhu.womensafetyapp-mergeDebugResources-3 D:\Women-Safety-App-Android-Project-Source-Code (1)\Women-Safety-App-Android-Project-Source-Code\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.prabhu.womensafetyapp-mergeDebugResources-4 D:\Women-Safety-App-Android-Project-Source-Code (1)\Women-Safety-App-Android-Project-Source-Code\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.prabhu.womensafetyapp-merged_res-5 D:\Women-Safety-App-Android-Project-Source-Code (1)\Women-Safety-App-Android-Project-Source-Code\app\build\intermediates\merged_res\debug
+com.prabhu.womensafetyapp-debug-6 D:\Women-Safety-App-Android-Project-Source-Code (1)\Women-Safety-App-Android-Project-Source-Code\app\src\debug\res
+com.prabhu.womensafetyapp-main-7 D:\Women-Safety-App-Android-Project-Source-Code (1)\Women-Safety-App-Android-Project-Source-Code\app\src\main\res

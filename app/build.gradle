@@ -1,0 +1,38 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 34
+
+    defaultConfig {
+        applicationId "com.prabhu.womensafetyapp"
+        minSdkVersion 18
+        targetSdkVersion 34
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    namespace 'com.prabhu.womensafetyapp'
+}
+
+dependencies {
+    // Replace deprecated support libraries with AndroidX libraries
+    implementation 'androidx.core:core:1.12.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.9.0'
+
+    // Use consistent Kotlin version
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:1.8.22"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.22" // Match the Kotlin version
+
+    // Optional: If you need lifecycle or view model support
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+
+    // Required for location permissions (if targeting Android 6.0 and above)
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+}

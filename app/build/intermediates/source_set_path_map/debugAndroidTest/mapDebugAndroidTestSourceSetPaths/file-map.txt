@@ -1,0 +1,4 @@
+com.prabhu.womensafetyapp.test.app-androidTest-0 D:\Women-Safety-App-Android-Project-Source-Code (1)\Women-Safety-App-Android-Project-Source-Code\app\build\generated\res\resValues\androidTest\debug
+com.prabhu.womensafetyapp.test.app-mergeDebugAndroidTestResources-1 D:\Women-Safety-App-Android-Project-Source-Code (1)\Women-Safety-App-Android-Project-Source-Code\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.prabhu.womensafetyapp.test.app-mergeDebugAndroidTestResources-2 D:\Women-Safety-App-Android-Project-Source-Code (1)\Women-Safety-App-Android-Project-Source-Code\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.prabhu.womensafetyapp.test.app-debugAndroidTest-3 D:\Women-Safety-App-Android-Project-Source-Code (1)\Women-Safety-App-Android-Project-Source-Code\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
